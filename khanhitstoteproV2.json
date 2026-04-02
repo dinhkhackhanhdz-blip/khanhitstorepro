@@ -1,7 +1,7 @@
 {
   "data": {
     "notification": {
-      "note": " CÀI ĐẶT PHẦN MỀM TIVI, MÁY TÍNH, CAMERA – SỬA MÁY IN & THIẾT BỊ MẠNG – THIẾT BỊ THÔNG MINH – Liên hệ Zalo: 0967.341.608 🚀   ",
+      "note": " PHIÊN BẢN 1.4 - CÀI ĐẶT PHẦN MỀM TIVI, MÁY TÍNH, CAMERA – SỬA MÁY IN & THIẾT BỊ MẠNG – THIẾT BỊ THÔNG MINH – Liên hệ Zalo: 0967.341.608 🚀   ",
       "photo": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/QUANGCAOV2.png"
     },
 
@@ -16,7 +16,18 @@
           "note": "TV là ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí.",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/anh.png"
-          ]
+            ]
+        },
+        {
+          "name": "Truyền Hình_iMedia",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/imediatv.1.apk",
+          "note": "Ứng dụng xem truyền hình miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
+        ]
         },
         {
           "name": "KHÁNH IT STORE",
@@ -38,17 +49,6 @@
           "note": "Project Launcher By Khánh IT – giải pháp tối ưu giúp TV Android mượt hơn, gọn gàng hơn và dễ sử dụng chỉ trong vài thao tác..",
           "preview": [
             "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png"
-          ]
-        },
-        {
-          "name": "Truyền Hình_iMedia",
-          "versionName": "mới nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/imediatv.1.apk",
-          "note": "Ứng dụng xem truyền hình miễn phí.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
           ]
         },
         {
