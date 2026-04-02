@@ -27,7 +27,40 @@
           "note": "Ứng dụng xem truyền hình miễn phí.",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
+       ]
+        },
+        {
+          "name": "Truyền Hình VTV",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/QUAN TV/vtv.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/quantv.apk",
+          "note": "Ứng dụng xem TV miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"
+         ]
+        },
+        {
+          "name": "Truyền Hình bóng đá",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/QUAN TV/vtv.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/quantv.apk",
+          "note": "Ứng dụng xem TV miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"
         ]
+        },
+        {
+          "name": "Truyền Hình dang cap nat",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/QUAN TV/vtv.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/quantv.apk",
+          "note": "Ứng dụng xem TV miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"
+          ]
         },
         {
           "name": "KHÁNH IT STORE",
@@ -49,17 +82,6 @@
           "note": "Project Launcher By Khánh IT – giải pháp tối ưu giúp TV Android mượt hơn, gọn gàng hơn và dễ sử dụng chỉ trong vài thao tác..",
           "preview": [
             "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png"
-          ]
-        },
-        {
-          "name": "Truyền Hình VTV",
-          "versionName": "Mới Nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/QUAN TV/vtv.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/quantv.apk",
-          "note": "Ứng dụng xem TV miễn phí.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"
           ]
         },
         {
