@@ -69,7 +69,19 @@
         "preview": [
           "https://lh3.googleusercontent.com/d/14Fxn-maa_7MQl3qaqOBTG-jMcBrvHdFU"
         ]
-        },
+       },
+      {
+        "name": "DLTivi",
+        "versionName": "16.0.2",
+        "type": "Giải Trí",
+        "logo": "https://lh3.googleusercontent.com/d/1wxsCLdYcEGQGp1WUYxlTRheK8dJSE3Kv",
+        "linkDownload": "https://github.com/anhbaotv/BaoStore/releases/download/BaoStoreapp/DLTivi_16.0.2.apk",
+        "note": "Ứng dụng xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam.",
+        "preview": [
+          "https://lh3.googleusercontent.com/d/1wxsCLdYcEGQGp1WUYxlTRheK8dJSE3Kv",
+          "https://lh3.googleusercontent.com/d/133vlKybVu5IXHqHnE6exaGkcZex9Xscc"
+        ]
+      },
         {
           "name": "Truyền Hình Đang Cập Nhật",
           "versionName": "Mới Nhất",
@@ -80,6 +92,18 @@
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"
           ]
+      },
+      {
+        "name": "vAppTV",
+        "versionName": "1.0.2",
+        "type": "Thể Thao",
+        "logo": "https://lh3.googleusercontent.com/d/1_QS9kqQz7uKyD0j6tWZE7AtVwDhOOEBv",
+        "linkDownload": "https://github.com/anhbaotv/pl/releases/download/ungdung/vapptv.apk",
+        "note": "Ứng dụng xem truyền hình thể thao trực tuyến chính thức của Đài Truyền hình Việt Nam.",
+        "preview": [
+          "https://lh3.googleusercontent.com/d/1SNt1amvLvWZHWx9IZGQ4xzLeliUN2OJ_",
+          "https://lh3.googleusercontent.com/d/1VCueOoU8akM1bH03wA-VQaDPPzhJMxML"
+        ]
         },
         {
           "name": "VieON",
