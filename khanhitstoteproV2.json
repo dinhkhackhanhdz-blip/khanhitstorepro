@@ -9,7 +9,7 @@
       "apps": [
         {
           "name": "Truyền Hình_CòTV",
-          "versionName": "1.1",
+          "versionName": "1.1.4",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/logo.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/CoTiViV1.1.3.apk",
@@ -52,7 +52,7 @@
         ]
        },
         {
-          "name": "MapVoice",
+          "name": "Xem Phim Chiếu Rạp",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/mapvoice.png",
@@ -62,7 +62,7 @@
       {
         "name": "VietPlay TV",
         "versionName": "2.2.0",
-        "type": "Giải Trí",
+        "type": "Truyền hình trực tuyến",
         "logo": "https://lh3.googleusercontent.com/d/1zKZ1TsLjq7rpVwcTLGnZIR0QLmVSFROG",
         "linkDownload": "https://github.com/anhbaotv/pl/releases/download/ungdung/VietPlay.TV.v.2.2.apk",
         "note": "Ứng dụng xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam.",
@@ -73,7 +73,7 @@
       {
         "name": "DLTivi",
         "versionName": "16.0.2",
-        "type": "Giải Trí",
+        "type": "Truyền hình trực tuyến",
         "logo": "https://lh3.googleusercontent.com/d/1wxsCLdYcEGQGp1WUYxlTRheK8dJSE3Kv",
         "linkDownload": "https://github.com/anhbaotv/BaoStore/releases/download/BaoStoreapp/DLTivi_16.0.2.apk",
         "note": "Ứng dụng xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam.",
@@ -96,7 +96,7 @@
       {
         "name": "vAppTV",
         "versionName": "1.0.2",
-        "type": "Thể Thao",
+        "type": "Truyền hình trực tuyến",
         "logo": "https://lh3.googleusercontent.com/d/1_QS9kqQz7uKyD0j6tWZE7AtVwDhOOEBv",
         "linkDownload": "https://github.com/anhbaotv/pl/releases/download/ungdung/vapptv.apk",
         "note": "Ứng dụng xem truyền hình thể thao trực tuyến chính thức của Đài Truyền hình Việt Nam.",
