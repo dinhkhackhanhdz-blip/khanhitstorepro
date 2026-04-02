@@ -71,7 +71,7 @@
         ]
        },
       {
-        "name": "DLTivi",
+        "name": "DL Tivi",
         "versionName": "16.0.2",
         "type": "Truyền hình trực tuyến",
         "logo": "https://lh3.googleusercontent.com/d/1wxsCLdYcEGQGp1WUYxlTRheK8dJSE3Kv",
@@ -94,7 +94,7 @@
           ]
       },
       {
-        "name": "vAppTV",
+        "name": "vApp TV",
         "versionName": "1.0.2",
         "type": "Truyền hình trực tuyến",
         "logo": "https://lh3.googleusercontent.com/d/1_QS9kqQz7uKyD0j6tWZE7AtVwDhOOEBv",
@@ -106,7 +106,7 @@
         ]
         },
         {
-          "name": "VieON",
+          "name": "Vie ON",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo1.png",
@@ -267,11 +267,33 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
          },
         {
-          "name": "KHÁNH IT STORE",
+          "name": "KHÁNH IT STORE V1",
           "versionName": "Mới Nhất",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/KHANHITSORE.apk",
+          "note": "Kho apk hoàn toàn miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/logo.png"
+          ]
+       },
+        {
+          "name": "KHÁNH STORE PRO V1",
+          "versionName": "Mới Nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstorepro/releases/download/store/KHANHSTOREPROV3.apk",
+          "note": "Kho apk hoàn toàn miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/logo.png"
+          ]
+      },
+        {
+          "name": "KHÁNH STORE PRO V2",
+          "versionName": "Mới Nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstorepro/releases/download/store/KHANHSTOREJSONV2.apk",
           "note": "Kho apk hoàn toàn miễn phí.",
           "preview": [
             "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/logo.png"
