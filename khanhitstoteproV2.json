@@ -58,6 +58,17 @@
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/mapvoice.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/mapvoice.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/mapvoice.png"]
+       },
+      {
+        "name": "VietPlay TV",
+        "versionName": "2.2.0",
+        "type": "Giải Trí",
+        "logo": "https://lh3.googleusercontent.com/d/1zKZ1TsLjq7rpVwcTLGnZIR0QLmVSFROG",
+        "linkDownload": "https://github.com/anhbaotv/pl/releases/download/ungdung/VietPlay.TV.v.2.2.apk",
+        "note": "Ứng dụng xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam.",
+        "preview": [
+          "https://lh3.googleusercontent.com/d/14Fxn-maa_7MQl3qaqOBTG-jMcBrvHdFU"
+        ]
         },
         {
           "name": "Truyền Hình Đang Cập Nhật",
