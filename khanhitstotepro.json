@@ -9,7 +9,7 @@
       "apps": [
         {
           "name": "Truyền Hình_CòTV",
-          "versionName": "MỚI NHẤT",
+          "versionName": "v3",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/logo.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/CoTiViV1.1.3.apk",
@@ -56,7 +56,7 @@
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/QUAN TV/vtv.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/quantv.apk",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/vn.khanh.vtv.apk",
           "note": "Ứng dụng xem TV miễn phí.",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"
