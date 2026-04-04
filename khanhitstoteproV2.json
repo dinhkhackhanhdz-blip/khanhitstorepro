@@ -7,7 +7,18 @@
 
     "tivi": {
       "apps": [
-        {
+       {
+          "name": "Truyền Hình_CòTV",
+          "versionName": "1.1.4",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/logo.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/CoTiViV1.1.3.apk",
+          "note": "Ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/anh.png"
+          ]
+       },
+         {
           "name": "KHÁNH VTV",
           "versionName": "2.2.2",
           "type": "Truyền hình trực tuyến",
@@ -15,7 +26,8 @@
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/khanhtv2.2.2.apk",
           "note": "Ứng dụng xem VTV miễn phí.",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/QUAN TV/app_banner2.png" ]
+            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/QUAN TV/app_banner2.png" 
+          ]
         },
         {
           "name": "KHÁNH MOVIE",
@@ -24,7 +36,8 @@
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/blob/main/KHO PHIM/logo1.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/khophim.apk",
           "note": "Ứng dụng xem phim chiếu rạp miễn phí.",
-          "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/blob/main/KHO PHIM/logo1.png"]
+          "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/blob/main/KHO PHIM/logo1.png"
+          ]
        },
         {
           "name": "Truyền Hình_iMedia",
@@ -34,7 +47,8 @@
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/imediatv.1.apk",
           "note": "Ứng dụng xem truyền hình miễn phí.",
           "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"]
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
+          ]
         },
         {
           "name": "Truyền Hình_CòTV",
@@ -44,7 +58,8 @@
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/CoTiViV1.1.3.apk",
           "note": "Ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí.",
           "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/anh.png"]
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/anh.png"
+          ]
         },
         {
           "name": "Truyền Hình Bóng Đá",
@@ -54,7 +69,8 @@
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstorepro/releases/download/store/bongda.apk",
           "note": "Ứng dụng xem bong đá miễn phí.",
           "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png" ]
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png" 
+          ]
        },
       {
         "name": "VietPlay TV",
