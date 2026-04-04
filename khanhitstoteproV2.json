@@ -7,7 +7,7 @@
 
     "tivi": {
       "apps": [
-        {
+          {
           "name": "Truyền Hình_CòTV",
           "versionName": "1.1.4",
           "type": "Truyền hình trực tuyến",
@@ -17,8 +17,8 @@
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/anh.png"
           ]
-        },
-        {
+          },
+          {
           "name": "KHÁNH VTV",
           "versionName": "2.2.2",
           "type": "Truyền hình trực tuyến",
@@ -28,8 +28,8 @@
           "preview": [
             "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/QUAN TV/app_banner2.png" 
           ]
-        },
-        {
+          },
+          {
           "name": "KHÁNH MOVIE",
           "versionName": "1.1.8",
           "type": "Truyền hình trực tuyến",
@@ -38,8 +38,8 @@
           "note": "Ứng dụng xem phim chiếu rạp miễn phí.",
           "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/blob/main/KHO PHIM/logo1.png"
           ]
-       },
-        {
+          },
+          {
           "name": "Truyền Hình_iMedia",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
@@ -49,8 +49,8 @@
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
           ]
-        },
-        {
+          },
+          {
           "name": "Truyền Hình Bóng Đá",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
@@ -60,8 +60,8 @@
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png" 
           ]
-       },
-      {
+          },
+          {
         "name": "VietPlay TV",
         "versionName": "2.2.0",
         "type": "Truyền hình trực tuyến",
@@ -70,9 +70,9 @@
         "note": "Ứng dụng xem truyền hình trực tuyến chính thức của Đài Truyền hình Việt Nam.",
         "preview": [
           "https://lh3.googleusercontent.com/d/14Fxn-maa_7MQl3qaqOBTG-jMcBrvHdFU"
-        ]
-       },
-      {
+         ]
+         },
+         {
         "name": "DL Tivi",
         "versionName": "16.0.2",
         "type": "Truyền hình trực tuyến",
@@ -82,9 +82,9 @@
         "preview": [
           "https://lh3.googleusercontent.com/d/1wxsCLdYcEGQGp1WUYxlTRheK8dJSE3Kv",
           "https://lh3.googleusercontent.com/d/133vlKybVu5IXHqHnE6exaGkcZex9Xscc"
-        ]
-      },
-        {
+         ]
+         },
+         {
           "name": "Truyền Hình Đang Cập Nhật",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
@@ -94,8 +94,8 @@
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"
           ]
-      },
-      {
+          },
+       {
         "name": "vApp TV",
         "versionName": "1.0.2",
         "type": "Truyền hình trực tuyến",
