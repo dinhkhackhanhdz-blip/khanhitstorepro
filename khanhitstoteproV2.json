@@ -7,16 +7,6 @@
 
     "tivi": {
       "apps": [
-       {
-          "name": "Truyền Hình_CòTV",
-          "versionName": "1.1.4",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/CoTiViV1.1.3.apk",
-          "note": "Ứng dụng xem truyền hình, bóng đá trực tuyến miễn phí.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_CòTV/anh.png"
-          ]
        },
          {
           "name": "KHÁNH VTV",
