@@ -363,6 +363,22 @@
             "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png" ]
         },
         {
+          "name": "GIAO DIỆN HOME TV 19",
+          "versionName": "phiên bản mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/file.man.hinh.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/anh1.png"]
+        },
+        {
+          "name": "GIAO DIỆN PROJECT",
+          "versionName": "4.6.4",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/file.man.hinh.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/file màn hình/anh1.png"]
+        },
+        {
           "name": "GIAO DIỆN EMOTN UI",
           "versionName": "phiên bản mới nhất",
           "type": "Tiện ích",
